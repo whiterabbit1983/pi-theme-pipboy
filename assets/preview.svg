@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Pip-Boy theme preview for Pi">
+  <rect width="960" height="540" fill="#0b1208"/>
+  <rect x="24" y="24" width="912" height="492" rx="10" fill="#16240f" stroke="#3f6b32" stroke-width="2"/>
+  <rect x="24" y="24" width="912" height="44" rx="10" fill="#1d3113"/>
+  <rect x="24" y="58" width="912" height="10" fill="#1d3113"/>
+  <circle cx="52" cy="46" r="6" fill="#7ddb4a"/>
+  <text x="70" y="52" font-family="ui-monospace, monospace" font-size="16" fill="#ffb000">ROBCO INDUSTRIES (TM) TERMINAL</text>
+  <text x="880" y="52" font-family="ui-monospace, monospace" font-size="16" fill="#8fae7a" text-anchor="end">pipboy</text>
+
+  <text x="52" y="110" font-family="ui-monospace, monospace" font-size="18" fill="#c9f7b4">$ pi install npm:pi-theme-pipboy</text>
+  <text x="52" y="146" font-family="ui-monospace, monospace" font-size="18" fill="#7ddb4a">✓ Installed npm:pi-theme-pipboy</text>
+
+  <rect x="52" y="176" width="856" height="60" rx="6" fill="#1d3113" stroke="#22351c"/>
+  <text x="68" y="204" font-family="ui-monospace, monospace" font-size="17" fill="#c9f7b4">user</text>
+  <text x="68" y="226" font-family="ui-monospace, monospace" font-size="16" fill="#8fae7a">Summarize the diff and open the failing test.</text>
+
+  <text x="52" y="276" font-family="ui-monospace, monospace" font-size="16" fill="#ffb000">TOOL  bash</text>
+  <rect x="52" y="290" width="856" height="72" rx="6" fill="#15300f" stroke="#22351c"/>
+  <text x="68" y="316" font-family="ui-monospace, monospace" font-size="15" fill="#c9f7b4">$ npm test</text>
+  <text x="68" y="344" font-family="ui-monospace, monospace" font-size="15" fill="#a8e88a">+ 12 passing</text>
+
+  <rect x="52" y="382" width="856" height="52" rx="6" fill="#3a1410" stroke="#ff5f4d"/>
+  <text x="68" y="412" font-family="ui-monospace, monospace" font-size="16" fill="#ff5f4d">✗ 1 failing — build timed out</text>
+
+  <text x="52" y="472" font-family="ui-monospace, monospace" font-size="15" fill="#5f7d55">Vault-Tec Industries — internal use only</text>
+  <text x="908" y="472" font-family="ui-monospace, monospace" font-size="15" fill="#5f7d55" text-anchor="end">help · settings · reload · exit</text>
+</svg>

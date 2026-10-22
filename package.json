@@ -1,0 +1,35 @@
+{
+  "name": "pi-theme-pipboy",
+  "version": "0.1.0",
+  "description": "Pip-Boy theme for Pi — a Fallout-inspired amber and phosphor-green terminal palette.",
+  "keywords": [
+    "pi-package",
+    "pi-theme",
+    "pi",
+    "theme",
+    "pipboy",
+    "pip-boy",
+    "fallout"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OWNER/pi-theme-pipboy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OWNER/pi-theme-pipboy/issues"
+  },
+  "homepage": "https://github.com/OWNER/pi-theme-pipboy#readme",
+  "files": [
+    "themes",
+    "assets",
+    "README.md",
+    "LICENSE"
+  ],
+  "pi": {
+    "image": "https://cdn.jsdelivr.net/npm/pi-theme-pipboy/assets/preview.svg",
+    "themes": [
+      "./themes"
+    ]
+  }
+}
