@@ -12,14 +12,18 @@
     "fallout"
   ],
   "license": "MIT",
+  "author": "whiterabbit1983",
+  "contributors": [
+    "whiterabbit1983"
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OWNER/pi-theme-pipboy.git"
+    "url": "git+https://github.com/whiterabbit1983/pi-theme-pipboy.git"
   },
   "bugs": {
-    "url": "https://github.com/OWNER/pi-theme-pipboy/issues"
+    "url": "https://github.com/whiterabbit1983/pi-theme-pipboy/issues"
   },
-  "homepage": "https://github.com/OWNER/pi-theme-pipboy#readme",
+  "homepage": "https://github.com/whiterabbit1983/pi-theme-pipboy#readme",
   "files": [
     "themes",
     "assets",
@@ -27,7 +31,7 @@
     "LICENSE"
   ],
   "pi": {
-    "image": "https://cdn.jsdelivr.net/npm/pi-theme-pipboy/assets/preview.svg",
+    "image": "https://raw.githubusercontent.com/whiterabbit1983/pi-theme-pipboy/main/assets/preview.svg",
     "themes": [
       "./themes"
     ]

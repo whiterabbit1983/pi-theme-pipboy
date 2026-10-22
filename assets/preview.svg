@@ -1,27 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Pip-Boy theme preview for Pi">
-  <rect width="960" height="540" fill="#0b1208"/>
-  <rect x="24" y="24" width="912" height="492" rx="10" fill="#16240f" stroke="#3f6b32" stroke-width="2"/>
-  <rect x="24" y="24" width="912" height="44" rx="10" fill="#1d3113"/>
-  <rect x="24" y="58" width="912" height="10" fill="#1d3113"/>
-  <circle cx="52" cy="46" r="6" fill="#7ddb4a"/>
-  <text x="70" y="52" font-family="ui-monospace, monospace" font-size="16" fill="#ffb000">ROBCO INDUSTRIES (TM) TERMINAL</text>
-  <text x="880" y="52" font-family="ui-monospace, monospace" font-size="16" fill="#8fae7a" text-anchor="end">pipboy</text>
-
-  <text x="52" y="110" font-family="ui-monospace, monospace" font-size="18" fill="#c9f7b4">$ pi install npm:pi-theme-pipboy</text>
-  <text x="52" y="146" font-family="ui-monospace, monospace" font-size="18" fill="#7ddb4a">✓ Installed npm:pi-theme-pipboy</text>
-
-  <rect x="52" y="176" width="856" height="60" rx="6" fill="#1d3113" stroke="#22351c"/>
-  <text x="68" y="204" font-family="ui-monospace, monospace" font-size="17" fill="#c9f7b4">user</text>
-  <text x="68" y="226" font-family="ui-monospace, monospace" font-size="16" fill="#8fae7a">Summarize the diff and open the failing test.</text>
-
-  <text x="52" y="276" font-family="ui-monospace, monospace" font-size="16" fill="#ffb000">TOOL  bash</text>
-  <rect x="52" y="290" width="856" height="72" rx="6" fill="#15300f" stroke="#22351c"/>
-  <text x="68" y="316" font-family="ui-monospace, monospace" font-size="15" fill="#c9f7b4">$ npm test</text>
-  <text x="68" y="344" font-family="ui-monospace, monospace" font-size="15" fill="#a8e88a">+ 12 passing</text>
-
-  <rect x="52" y="382" width="856" height="52" rx="6" fill="#3a1410" stroke="#ff5f4d"/>
-  <text x="68" y="412" font-family="ui-monospace, monospace" font-size="16" fill="#ff5f4d">✗ 1 failing — build timed out</text>
-
-  <text x="52" y="472" font-family="ui-monospace, monospace" font-size="15" fill="#5f7d55">Vault-Tec Industries — internal use only</text>
-  <text x="908" y="472" font-family="ui-monospace, monospace" font-size="15" fill="#5f7d55" text-anchor="end">help · settings · reload · exit</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="944" height="1157" viewBox="0 0 944 1157" role="img" aria-label="pipboy theme preview — a mock Pi session">
+<title>pipboy theme preview — a mock Pi session</title>
+<rect width="944" height="1157" rx="10" fill="#020c06"/>
+<rect x="22" y="169" width="900" height="21" fill="#05180c"/>
+<rect x="22" y="190" width="900" height="21" fill="#05180c"/>
+<rect x="22" y="211" width="900" height="21" fill="#05180c"/>
+<rect x="22" y="253" width="900" height="21" fill="#08301a"/>
+<rect x="22" y="274" width="900" height="21" fill="#08301a"/>
+<rect x="22" y="295" width="900" height="21" fill="#08301a"/>
+<rect x="22" y="337" width="900" height="21" fill="#08301a"/>
+<rect x="22" y="358" width="900" height="21" fill="#08301a"/>
+<rect x="22" y="379" width="900" height="21" fill="#08301a"/>
+<rect x="22" y="400" width="900" height="21" fill="#08301a"/>
+<rect x="22" y="421" width="900" height="21" fill="#08301a"/>
+<rect x="22" y="442" width="900" height="21" fill="#08301a"/>
+<rect x="22" y="463" width="900" height="21" fill="#08301a"/>
+<rect x="22" y="820" width="900" height="21" fill="#2a0e08"/>
+<rect x="22" y="841" width="900" height="21" fill="#2a0e08"/>
+<rect x="22" y="862" width="900" height="21" fill="#2a0e08"/>
+<rect x="22" y="883" width="900" height="21" fill="#2a0e08"/>
+<rect x="22" y="904" width="900" height="21" fill="#2a0e08"/>
+<rect x="22" y="925" width="900" height="21" fill="#2a0e08"/>
+<rect x="454" y="1051" width="9" height="21" fill="#1bff80"/>
+<g font-family="'JetBrains Mono', 'Fira Code', 'DejaVu Sans Mono', Menlo, 'Liberation Mono', monospace" font-size="15" fill="#1bff80" xml:space="preserve">
+<text x="31" y="58.75" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#0a5e30">v1.3.0</text>
+<text x="31" y="79.75" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#0a5e30">escape</text>
+<text x="85" y="79.75" textLength="117" lengthAdjust="spacingAndGlyphs" fill="#0e8f47"> interrupt · </text>
+<text x="202" y="79.75" textLength="117" lengthAdjust="spacingAndGlyphs" fill="#0a5e30">ctrl+c/ctrl+d</text>
+<text x="319" y="79.75" textLength="126" lengthAdjust="spacingAndGlyphs" fill="#0e8f47"> clear/exit · </text>
+<text x="445" y="79.75" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#0a5e30">/</text>
+<text x="454" y="79.75" textLength="108" lengthAdjust="spacingAndGlyphs" fill="#0e8f47"> commands · </text>
+<text x="562" y="79.75" textLength="9" lengthAdjust="spacingAndGlyphs" fill="#0a5e30">!</text>
+<text x="571" y="79.75" textLength="72" lengthAdjust="spacingAndGlyphs" fill="#0e8f47"> bash · </text>
+<text x="643" y="79.75" textLength="54" lengthAdjust="spacingAndGlyphs" fill="#0a5e30">ctrl+o</text>
+<text x="697" y="79.75" textLength="45" lengthAdjust="spacingAndGlyphs" fill="#0e8f47"> more</text>
+<text x="31" y="100.75" textLength="351" lengthAdjust="spacingAndGlyphs" fill="#0a5e30">Press ctrl+o to show full startup help.</text>
+<text x="31" y="142.75" textLength="765" lengthAdjust="spacingAndGlyphs" fill="#0a5e30">Pi can explain its own features and look up its docs. Ask it how to use or extend Pi.</text>
+<text x="31" y="205.75" textLength="648" lengthAdjust="spacingAndGlyphs" fill="#8affc1">Regenerate the Pip-Boy preview and point pi.image at the raw GitHub URL.</text>
+<text x="31" y="289.75" textLength="36" lengthAdjust="spacingAndGlyphs" fill="#8affc1" font-weight="bold">read</text>
+<text x="76" y="289.75" textLength="162" lengthAdjust="spacingAndGlyphs" fill="#1bff80">themes/pipboy.json</text>
+<text x="31" y="373.75" textLength="153" lengthAdjust="spacingAndGlyphs" fill="#8affc1" font-weight="bold">$ npm run preview</text>
+<text x="31" y="415.75" textLength="279" lengthAdjust="spacingAndGlyphs" fill="#14c862">&gt; pi-theme-pipboy@0.1.0 preview</text>
+<text x="31" y="436.75" textLength="315" lengthAdjust="spacingAndGlyphs" fill="#14c862">&gt; node scripts/generate-preview.mjs</text>
+<text x="31" y="457.75" textLength="234" lengthAdjust="spacingAndGlyphs" fill="#14c862">&gt; wrote assets/preview.svg</text>
+<text x="31" y="520.75" textLength="135" lengthAdjust="spacingAndGlyphs" fill="#8affc1" font-weight="bold">Pip-Boy preview</text>
+<text x="31" y="562.75" textLength="747" lengthAdjust="spacingAndGlyphs" fill="#1bff80">The palette keeps phosphor green for body text and leans on amber for links, inline</text>
+<text x="31" y="583.75" textLength="621" lengthAdjust="spacingAndGlyphs" fill="#1bff80">code and warnings, so the terminal still reads like a Pip-Boy screen.</text>
+<text x="31" y="625.75" textLength="18" lengthAdjust="spacingAndGlyphs" fill="#8affc1">- </text>
+<text x="49" y="625.75" textLength="414" lengthAdjust="spacingAndGlyphs" fill="#1bff80">phosphor — body text, headings and tool titles</text>
+<text x="31" y="646.75" textLength="18" lengthAdjust="spacingAndGlyphs" fill="#8affc1">- </text>
+<text x="49" y="646.75" textLength="351" lengthAdjust="spacingAndGlyphs" fill="#1bff80">amber — links, inline code and warnings</text>
+<text x="31" y="667.75" textLength="18" lengthAdjust="spacingAndGlyphs" fill="#8affc1">- </text>
+<text x="49" y="667.75" textLength="306" lengthAdjust="spacingAndGlyphs" fill="#1bff80">rad — errors and failed tool calls</text>
+<text x="31" y="709.75" textLength="63" lengthAdjust="spacingAndGlyphs" fill="#0a5e30">```bash</text>
+<text x="49" y="730.75" textLength="135" lengthAdjust="spacingAndGlyphs" fill="#1bff80">npm run preview</text>
+<text x="31" y="751.75" textLength="27" lengthAdjust="spacingAndGlyphs" fill="#0a5e30">```</text>
+<text x="31" y="793.75" textLength="135" lengthAdjust="spacingAndGlyphs" fill="#1bff80">Gallery image: </text>
+<text x="166" y="793.75" textLength="99" lengthAdjust="spacingAndGlyphs" fill="#ffb642" text-decoration="underline">preview.svg</text>
+<text x="265" y="793.75" textLength="477" lengthAdjust="spacingAndGlyphs" fill="#0e8f47"> (https://github.com/whiterabbit1983/pi-theme-pipboy)</text>
+<text x="31" y="856.75" textLength="198" lengthAdjust="spacingAndGlyphs" fill="#8affc1" font-weight="bold">$ git push origin main</text>
+<text x="31" y="898.75" textLength="414" lengthAdjust="spacingAndGlyphs" fill="#14c862">! [rejected]        main -&gt; main (fetch first)</text>
+<text x="31" y="919.75" textLength="387" lengthAdjust="spacingAndGlyphs" fill="#ff5a3c">error: failed to push some refs to 'origin'</text>
+<text x="31" y="982.75" textLength="765" lengthAdjust="spacingAndGlyphs" fill="#1bff80">The push was rejected because the remote has commits I do not have. Fetch first, then</text>
+<text x="31" y="1003.75" textLength="423" lengthAdjust="spacingAndGlyphs" fill="#1bff80">replay the preview on top of the remote branch.</text>
+<text x="22" y="1045.75" textLength="900" lengthAdjust="spacingAndGlyphs" fill="#0a5e30">────────────────────────────────────────────────────────────────────────────────────────────────────</text>
+<text x="22" y="1066.75" textLength="432" lengthAdjust="spacingAndGlyphs" fill="#1bff80">Regenerate the preview with the new amber accent</text>
+<text x="22" y="1087.75" textLength="900" lengthAdjust="spacingAndGlyphs" fill="#0a5e30">────────────────────────────────────────────────────────────────────────────────────────────────────</text>
+<text x="22" y="1108.75" textLength="261" lengthAdjust="spacingAndGlyphs" fill="#0a5e30">~/work/pi-theme-pipboy (main)</text>
+<text x="22" y="1129.75" textLength="306" lengthAdjust="spacingAndGlyphs" fill="#0a5e30">↑12.4k ↓3.1k R48.2k CH91.3% $0.042</text>
+<text x="328" y="1129.75" textLength="162" lengthAdjust="spacingAndGlyphs" fill="#ffb642"> 78.2%/200k (auto)</text>
+<text x="706" y="1129.75" textLength="216" lengthAdjust="spacingAndGlyphs" fill="#0a5e30">claude-sonnet-4-5 • high</text>
+</g>
 </svg>
